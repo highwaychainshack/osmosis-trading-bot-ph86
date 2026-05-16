@@ -1,4 +1,4 @@
-# 
+# instant osmosis trading bot Addon | MEV-strategies + liquidity-pool-analysis offers the most advanced osmosis trading bot, with MEV-strategies and liquidity-pool-analysis. Ideal
 
 
 
